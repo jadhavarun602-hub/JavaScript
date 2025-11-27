@@ -1,6 +1,6 @@
 // Check if a number is a perfect square
 
-let num = 20; 
+let num = 10; 
 
 let root = Math.sqrt(num);
 
