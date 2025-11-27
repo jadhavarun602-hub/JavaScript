@@ -1,6 +1,6 @@
 // Check if a number is a multiple of 3 or 7.
 
-let num = 14;
+let num = 24;
 
 if (num % 3 === 0 || num % 7 === 0) {
     console.log(num+" number is a multiple of 3 or 7.");  
