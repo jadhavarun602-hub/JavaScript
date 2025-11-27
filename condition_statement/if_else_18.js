@@ -5,7 +5,7 @@
 // 60–69 → D
 // <60 → F
 
-let mark = 95;
+let mark = 90;
 
 if (mark >= 90) {
     console.log("Grade : A");  
