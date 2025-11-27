@@ -1,7 +1,7 @@
 // Check whether a string is empty or not.
 
 
-let str = "arun";
+let str = "Arun";
 
 if (str.length === 0) {
     console.log("string is empty");
