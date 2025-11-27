@@ -1,6 +1,6 @@
 // Write a program to check if a number is positive or negative.
 
-let num = 7;
+let num = 5;
 
 if (num < 0) {
     console.log("This is the negative number");
