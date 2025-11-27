@@ -1,6 +1,6 @@
 // Take month number and print number of days.
 
- let month = 5;
+ let month = 2;
 
  if (month === 1) {
     console.log("January : number of day : 31");
