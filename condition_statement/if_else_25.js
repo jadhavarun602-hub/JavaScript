@@ -1,6 +1,6 @@
 // Check if a number is Armstrong number (3-digit simple logic).
 
-let num = 153;  
+let num = 156;  
 let originalNum = num;
 
 let digit1 = num % 10;          
