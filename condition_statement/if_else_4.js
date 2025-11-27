@@ -1,6 +1,6 @@
 // Check whether a given year is a leap year.
 
-let year = 2028;
+let year = 2026;
 
 if (year % 4 == 0) {
     console.log("this is the leap year");
