@@ -1,6 +1,6 @@
 // Check whether a person is child, teen, or adult.
 
-const person = 21;
+const person = 28;
 
 if (person <= 12) 
 {
