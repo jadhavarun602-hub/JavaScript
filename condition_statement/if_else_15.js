@@ -1,6 +1,6 @@
 // Check if a number is prime or not (using basic logic).
 
-const num = 29;
+const num = 22;
 
 let isPrime = true;
 
