@@ -1,7 +1,7 @@
 // Check whether three sides form a valid triangle.
 
 let a = 5;
-let b = 19;
+let b = 11;
 let c = 5;
 
 if (a + b > c && a + c > b && b + c > a) {
