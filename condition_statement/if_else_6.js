@@ -1,7 +1,7 @@
 // Take three numbers and print the largest number.
 
 let num1 = 8;
-let num2 = 8;
+let num2 = 9;
 let num3 = 8;
 
 if(num1 > num2 && num1 > num3){
