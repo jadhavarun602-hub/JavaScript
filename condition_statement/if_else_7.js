@@ -1,6 +1,6 @@
 // Check if a character is vowel or consonant.
 
-let vowel = "b";
+let vowel = "u";
 
 if (vowel == 'a' || vowel == 'i' || vowel == 'o' || vowel == 'u' || vowel == 'e' ||
     vowel == 'A' || vowel == 'I' || vowel == 'O' || vowel == 'U' || vowel == 'E') {
