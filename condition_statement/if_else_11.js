@@ -3,7 +3,7 @@
 // "Warm" if 20–30
 // "Cold" if < 20
 
-const temp = 100000;
+const temp = 100;
 
 if (temp > 30) {
     console.log("Temperature is Hot!"); 
