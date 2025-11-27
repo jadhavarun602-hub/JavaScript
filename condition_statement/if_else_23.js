@@ -1,6 +1,6 @@
 // Check whether two numbers are equal or not.
 
-let num1 = 44;
+let num1 = 42;
 let num2 = 4;
 
 if (num1 === num2) {
