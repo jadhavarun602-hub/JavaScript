@@ -1,7 +1,7 @@
 // Take two numbers and print the greater number.
 
 const num1 = 15;
-const num2 = 25;
+const num2 = 24;
 
 if (num1 > num2) {
     console.log(num1+" this is the greatest number");
