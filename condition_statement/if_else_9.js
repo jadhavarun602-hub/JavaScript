@@ -1,6 +1,6 @@
 // Check whether a student passed or failed (marks ≥ 35).
 
-const mark = 30;
+const mark = 23;
 
 if(100 >= mark && mark >= 85){
     console.log("GRADE : A");
