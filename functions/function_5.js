@@ -13,4 +13,4 @@ function EvenOdd(num)
     }
 }
 
-EvenOdd(9);
+EvenOdd(16);
