@@ -2,6 +2,8 @@
 
 let Name = ["arun","nandu","sandip","tushar","golu","vishal"];
 
-Name.shift();
+let remove = Name.shift();
 
-console.log(Name);
+console.log("remove : ",remove);
+
+console.log("new : ",Name);
