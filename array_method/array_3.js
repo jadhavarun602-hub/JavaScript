@@ -1,7 +1,9 @@
 // Remove the last element of an array using pop() and print the removed value.
 
-let num = [11,33,44,55,77,988,44];
+let num = [11,33,44,55,77,988,14];
 
-num.pop();
+let remove = num.pop();
 
-console.log(num);
+console.log("remove: ",remove);
+
+console.log("new : ",num);
