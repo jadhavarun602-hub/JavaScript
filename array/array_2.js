@@ -1,6 +1,6 @@
 // Add two new fruits to the end of an array using push().
 
-let fruits =["Apple", "Banana", "Mango", "Orange", "Grapes"];
+let fruits =["Apple", "Banana", "Mango", "Orange", "Grapes","chery"];
 
 fruits.push("berry","chiku");
 
