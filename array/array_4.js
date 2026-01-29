@@ -1,6 +1,6 @@
 // Add a number to the beginning of an array using unshift().
 
-let num = [33,24,52,77,35,89,11,45];
+let num = [33,24,52,77,35,89,11,45,22];
 
 num.unshift(12);
 
